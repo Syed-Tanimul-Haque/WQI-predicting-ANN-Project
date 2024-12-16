@@ -1,0 +1,11 @@
+,Parameters,Model Number,Number of Parameter,RMSE,R2
+0,"FC, TSS, Temp, TPN, TP",193,5,4.386,0.9
+1,"FC, Oxy, TSS, Temp, TPN, TP",229,6,4.397,0.9
+2,"FC, Oxy, TSS, Temp, TPN, Turb",230,6,4.383,0.901
+3,"FC, pH, TSS, Temp, TPN, TP",234,6,4.234,0.907
+4,"FC, pH, Temp, TPN, TP, Turb",238,6,4.285,0.905
+5,"FC, TSS, Temp, TPN, TP, Turb",239,6,4.278,0.905
+6,"FC, Oxy, pH, TSS, Temp, TPN, TP",247,7,4.22,0.908
+7,"FC, Oxy, pH, TSS, Temp, TPN, Turb",248,7,4.201,0.909
+8,"FC, pH, TSS, Temp, TPN, TP, Turb",253,7,4.052,0.915
+9,"FC, Oxy, pH, TSS, Temp, TPN, TP, Turb",255,8,4.115,0.911

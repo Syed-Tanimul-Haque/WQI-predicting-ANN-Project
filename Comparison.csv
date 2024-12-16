@@ -1,0 +1,3 @@
+Metric,1 layer-64 neuron,1 layer-128 neuron,1 layer-256 neuron,1 layer-512 neuron,3 layer-64 neuron,3 layer-128 neuron,3 layer-256 neuron,3 layer-512 neuron,5layer-64 neuron,5 layer-128 neuron,5 layer-256 neuron,5 layer-512 neuron
+RMSE,5.4745,5.256,4.959,4.3945,5.863,3.7985,4.128,5.428,5.7645,5.677,4.577,4.374
+r2,0.845,0.856,0.873,0.9,0.8145,0.925,0.9115,0.8425,0.828,0.826,0.891,0.9005
